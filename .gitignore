@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+.DS_Store
+utils/__pycache__/
+vectors/glove.*
+save/
+result/
